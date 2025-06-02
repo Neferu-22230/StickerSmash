@@ -9,3 +9,4 @@ npm run reset-project
 
 npx expo start --localhost --android
 
+npm install dom-to-image
