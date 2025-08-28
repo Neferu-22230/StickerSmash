@@ -1,5 +1,5 @@
-git config --global user.name gallojunior
-git config --global user.email gallojunior@gmail.com
+git config --global user.name Neferu-22230
+git config --global user.email luizotavios309@gmail.com
 
 npx create-expo-app@latest StickerSmash
 
